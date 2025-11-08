@@ -1,0 +1,5 @@
+{
+  "name": "React Prompt Builder",
+  "description": "An interactive, modern UI for building complex prompts using swipeable cards. Features a live preview, prompt history, and multiple templates in a Tinder-like interface, supporting right-to-left text.",
+  "requestFramePermissions": []
+}
